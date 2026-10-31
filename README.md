@@ -1,10 +1,10 @@
 ### Salut, moi c'est Flo 👋 · Hi, I'm Flo
 
-🇫🇷 Côté pro, je suis ingénieur frontend senior chez Back Market. Côté perso, je suis illustrateur.
-Je mélange les deux en créant des jeux web, que je développe et que j'illustre moi-même.
+🇫🇷 Le jour, je suis ingénieur frontend senior chez Back Market. La nuit, je suis illustrateur.
+Et quand les deux se rencontrent, je crée des jeux web que je développe et que j'illustre moi-même.
 
-🇬🇧 At work, I'm a senior frontend engineer at Back Market. Outside of work, I'm an illustrator.
-I bring both together by making web games that I build and illustrate myself.
+🇬🇧 By day, I'm a senior frontend engineer at Back Market. By night, I'm an illustrator.
+And when the two meet, I make web games that I build and illustrate myself.
 
 [florianleux.fr](https://florianleux.fr) · [LinkedIn](https://www.linkedin.com/in/florian-leux-255b9384/)
 
