@@ -1,8 +1,10 @@
 ### Salut, moi c'est Flo 👋 · Hi, I'm Flo
 
-🇫🇷 Développeur frontend senior chez Back Market depuis 2022, et illustrateur. Je fais du web depuis plus de 10 ans, surtout avec Vue.js et Nuxt. À côté, je crée des jeux pour navigateur et des conférences techniques illustrées.
+🇫🇷 Côté pro, je suis ingénieur frontend senior chez Back Market. Côté perso, je suis illustrateur.
+Je mélange les deux en créant des jeux web, que je développe et que j'illustre moi-même.
 
-🇬🇧 Senior frontend engineer at Back Market since 2022, and illustrator. I've been building for the web for over 10 years, mostly with Vue.js and Nuxt. On the side, I make browser games and illustrated tech talks.
+🇬🇧 At work, I'm a senior frontend engineer at Back Market. Outside of work, I'm an illustrator.
+I bring both together by making web games that I build and illustrate myself.
 
 [florianleux.fr](https://florianleux.fr) · [LinkedIn](https://www.linkedin.com/in/florian-leux-255b9384/)
 
