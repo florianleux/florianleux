@@ -14,6 +14,7 @@
 |---|---|
 | [**La Haute Tour**](https://github.com/florianleux/la-haute-tour) | RPG de culture générale à plusieurs · Multiplayer trivia RPG — Nuxt |
 | [**Ahoy!**](https://github.com/florianleux/Ahoy) | Bataille navale pirate · Pirate battleship game — Vue 3, TypeScript |
+| [**Refurbished!**](https://github.com/GuillaumeAmat/refurbished) | Jeu coopératif façon Overcooked, sur le thème de Back Market, avec Guillaume Amat · Overcooked-style co-op game themed on Back Market, with Guillaume Amat — Nuxt, Three.js |
 | [**Facettes**](https://github.com/florianleux/Facettes) | Retrouver des tableaux célèbres en pixel art · Guess famous paintings in pixel art — Vue |
 
 #### 🎤 Conférence · Talk
